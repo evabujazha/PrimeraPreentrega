@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "cant": 0,
+    "category": "Camiseta",
+    "description": ["Retro", "Cuello Redondo", "Version Jugador", "1999"],
+    "discount": 0,
+    "name": "Camiseta Francia '99",
+    "price": 18000,
+    "src1": "/resources/img/francia99-1.jpg",
+    "src2": "/resources/img/francia99-2.jpg",
+    "src3": "/resources/img/francia99-3.jpg",
+    "src4": "/resources/img/francia99-4.jpg",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "cant": 0,
+    "category": "Camiseta",
+    "description": ["Retro", "Cuello en V", "Version Fan", "2002"],
+    "discount": 0,
+    "name": "Camiseta Brasil 2002",
+    "price": 19500,
+    "src1": "/resources/img/brasil02-1.jpg",
+    "src2": "/resources/img/brasil02-2.jpg",
+    "src3": "/resources/img/brasil02-3.jpg",
+    "src4": "/resources/img/brasil02-4.jpg",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "cant": 0,
+    "category": "Botines",
+    "description": ["Adidas", "Retro", "Tope de Gama", "Cuero"],
+    "discount": 0,
+    "name": "Botines Copa 90 ",
+    "price": 23000,
+    "src1": "/resources/img/copa90-1.jpg",
+    "src2": "/resources/img/copa90-2.jpg",
+    "src3": "/resources/img/copa90-3.jpg",
+    "src4": "/resources/img/copa90-4.jpg",
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "cant": 0,
+    "category": "Camiseta",
+    "description": ["Actual", "Cuello Redondo", "Version Fan", "2018"],
+    "discount": 0,
+    "name": "Camiseta Argentina 2018",
+    "price": 16000,
+    "src1": "/resources/img/argentina18-1.jpg",
+    "src2": "/resources/img/argentina18-2.jpg",
+    "src3": "/resources/img/argentina18-3.jpg",
+    "src4": "/resources/img/argentina18-4.jpg",
+    "stock": 50
+  },
+  {
+    "id": 5,
+    "cant": 0,
+    "category": "Botines",
+    "description": ["Nike", "Actual", "Gama media", "Cuero sintetico"],
+    "discount": 0,
+    "name": "Botines Nike Hypervenom",
+    "price": 22000,
+    "src1": "/resources/img/hypervenom-1.jpg",
+    "src2": "/resources/img/hypervenom-2.jpg",
+    "src3": "/resources/img/hypervenom-3.jpg",
+    "src4": "/resources/img/hypervenom-4.jpg",
+    "stock": 50
+  }
+]
